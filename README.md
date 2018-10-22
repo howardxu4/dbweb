@@ -25,7 +25,7 @@ Usage
 -----
 * provide easy way to access your database table schema
 * show the content of your table on a flexible way
-* simple Create, Update, Read, Delete the row tada in table
+* simple Create, Update, Read, Delete the row data in table
 * build the SQL statement to access your database
 
 Dependency
