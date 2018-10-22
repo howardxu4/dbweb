@@ -1,0 +1,23 @@
+footer {
+    position: absolute;
+    top: 840px;
+}
+.mybox {
+    height: 650px;
+    max-height: 650px;
+    overflow: auto;
+}
+tr:nth-child(even){
+    background-color: #ddd;
+}
+.fclr{
+    color:springgreen;
+    position: relative;
+    top: 16px;
+}
+#msg {
+    color:maroon;
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
